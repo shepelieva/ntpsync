@@ -9,4 +9,4 @@ the evaluation period.
 This will also count.
 
 Before starting to use it is necessary to install ntp:
-#sudo apt-get install ntp
+$ sudo apt-get install ntp
