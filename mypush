@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git init
+git add .
+git commit -a -m 'test task'
+git remote add ntpsync git@github.com:shepelieva/ntpsync.git
+git push -u ntpsync master
